@@ -1,1 +1,1 @@
-# [**Museum**](https://rolling-scopes-school.github.io/serafim1337-JSFEPRESCHOOL/museum/)
+# [**Museum**](https://serafim1337.github.io/museum1.0/)
